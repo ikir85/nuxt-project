@@ -5,7 +5,7 @@
     <div class="container has-text-centered">
       <h1 class="title">My Projects</h1>
       <p>
-        Some of my projects can be found on <a href="https://github.com/ammezie" target="_blank">GitHub</a>.
+        Some of my projects can be found on <a href="https://github.com/ikir85" target="_blank">GitHub</a>.
       </p>
     </div>
   </section>
